@@ -1,2 +1,2 @@
 # Project-2
-Learning about scss
+Playing and learning Scss
